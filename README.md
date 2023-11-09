@@ -1,1 +1,1 @@
-# CodSoft-task-4
+A To-Do list is a handy tool for organizing tasks and managing time effectively. It helps individuals prioritize their activities, set goals, and track progress. Whether on paper or digital platforms, To-Do lists serve as a visual aid to enhance productivity by breaking down larger tasks into smaller, more manageable steps. They're versatile and can be adapted to personal, professional, or academic contexts, providing a structured approach to daily or long-term planning.
